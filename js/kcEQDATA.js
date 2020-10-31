@@ -525,12 +525,12 @@ var FITDATA = {
 	1: { 1: 7, 2: -2, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  7, 9:  0, 10: -10, 11:  -5 }, //Kongou
 	2: { 1: 4, 2:  1, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Bismarck
 	3: { 1: 4, 2:  1, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Littorio
-	4: { 1: 4, 2: -2, 3: -5, 4: -7, 5: -10, 6:  4, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Iowa
-	5: { 1: 4, 2:  2, 3:  2, 4: -3, 5:  -7, 6:  2, 7: 0, 8:  4, 9:  0, 10: -10, 11:   5 }, //Warspite
+	4: { 1: 4, 2: -2, 3: -5, 4: -7, 5: -10, 6:  0, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Iowa
+	5: { 1: 4, 2:  2, 3:  2, 4: -3, 5:  -7, 6: -2, 7: 0, 8:  4, 9:  0, 10: -10, 11:   5 }, //Warspite
 	6: { 1: 4, 2:  2, 3:  2, 4: -3, 5:  -7, 6:  0, 7: 0, 8:  4, 9:  0, 10:  -7, 11:   3 }, //Ise/Fusou
 	7: { 1: 4, 2:  2, 3:  2, 4: -3, 5:  -7, 6:  0, 7: 0, 8:  4, 9:  0, 10:  -7, 11:   3 }, //Fusou Kai 2
 	8: { 1: 2, 2:  2, 3:  2, 4: -3, 5:  -7, 6:  2, 7: 0, 8:  2, 9:  0, 10:  -7, 11:   3 }, //Nagato
-	9: { 1: 0, 2:  0, 3:  0, 4:  0, 5:   0, 6:  0, 7: 0, 8:  0, 9:  0, 10:   7, 11:   0 }, //Yamato
+	9: { 1: 0, 2:  0, 3:  0, 4:  3, 5:   3, 6:  0, 7: 0, 8:  0, 9:  0, 10:   7, 11:   0 }, //Yamato
    10: { 1: 4, 2:  1, 3: -7, 4: -7, 5: -16, 6: -3, 7: 0, 8: 10, 9:  0, 10: -18, 11: -10 }, //Gangut
    11: { 1: 2, 2:  2, 3:  5, 4: -2, 5:  -4, 6:  0, 7: 0, 8:  2, 9:  0, 10:  -4, 11:   4 }, //Nagato Kai 2
    12: { 1: 4, 2: -2, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  5, 10: -10, 11:  -7 }, //Richelieu
@@ -542,12 +542,12 @@ var FITDATAN = {
 	1: { 1: 7, 2:  0, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  7, 9:  0, 10: -10, 11:  -5 }, //Kongou
 	2: { 1: 4, 2:  0, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Bismarck
 	3: { 1: 4, 2:  0, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Littorio
-	4: { 1: 4, 2:  0, 3: -5, 4: -7, 5: -10, 6:  4, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Iowa
-	5: { 1: 4, 2:  0, 3:  2, 4: -3, 5:  -7, 6:  2, 7: 0, 8:  4, 9:  0, 10: -10, 11:   5 }, //Warspite
+	4: { 1: 4, 2:  0, 3: -5, 4: -7, 5: -10, 6:  0, 7: 0, 8:  4, 9:  0, 10: -10, 11:  -5 }, //Iowa
+	5: { 1: 4, 2:  0, 3:  2, 4: -3, 5:  -7, 6: -2, 7: 0, 8:  4, 9:  0, 10: -10, 11:   5 }, //Warspite
 	6: { 1: 4, 2:  0, 3:  0, 4: -5, 5:  -8, 6:  0, 7: 0, 8:  4, 9:  0, 10:  -7, 11:   3 }, //Ise/Fusou
 	7: { 1: 4, 2:  0, 3:  2, 4: -5, 5:  -8, 6:  0, 7: 0, 8:  4, 9:  0, 10:  -7, 11:   3 }, //Fusou Kai 2
-	8: { 1: 2, 2:  0, 3:  2, 4: -3, 5:  -7, 6:  2, 7: 0, 8:  4, 9:  0, 10:  -7, 11:   3 }, //Nagato
-	9: { 1: 0, 2:  0, 3:  0, 4:  0, 5:   0, 6:  0, 7: 0, 8:  0, 9:  0, 10:   7, 11:   0 }, //Yamato
+	8: { 1: 2, 2:  0, 3:  2, 4: -3, 5:  -7, 6:  2, 7: 0, 8:  2, 9:  0, 10:  -7, 11:   3 }, //Nagato
+	9: { 1: 0, 2:  0, 3:  0, 4:  0, 5:   3, 6:  0, 7: 0, 8:  0, 9:  0, 10:   7, 11:   0 }, //Yamato
    10: { 1: 7, 2:  0, 3: -7, 4: -7, 5: -16, 6: -3, 7: 0, 8: 10, 9:  0, 10: -18, 11: -10 }, //Gangut
    11: { 1: 2, 2:  0, 3:  5, 4: -2, 5:  -4, 6:  0, 7: 0, 8:  2, 9:  0, 10:  -4, 11:   4 }, //Nagato Kai 2
    12: { 1: 4, 2:  0, 3: -5, 4: -7, 5: -10, 6: -5, 7: 0, 8:  4, 9:  5, 10: -10, 11:  -7 }, //Richelieu
@@ -792,7 +792,7 @@ var EQDATA = {
 		AA: 6
 	},
 	22: {
-		name: 'Reppuu',
+		name: 'Prototype Reppuu Late Model',
 		nameJP: '烈風',
 		added: '2013-04-17',
 		type: FIGHTER,
@@ -1090,7 +1090,7 @@ var EQDATA = {
 		LOS: 2
 	},
 	53: {
-		name: 'Reppuu Kai',
+		name: 'Reppuu Model 11',
 		nameJP: '烈風改',
 		added: '2013-05-17',
 		type: FIGHTER,
@@ -4590,6 +4590,16 @@ var EQDATA = {
 		ASW: 3,
 		LOS: 6,
 	},
+	372: {
+		name: 'Tenzan Model 12A',
+		nameJP: '天山一二型甲',
+		added: '2020-05-20',
+		type: TORPBOMBER,
+		TP: 9,
+		AA: 1,
+		ASW: 4,
+		LOS: 2,
+	},
 	373: {
 		name: 'Tenzan Model 12 A Kai (w/ Type 6 Airborne Radar Kai)',
 		nameJP: '天山一二型甲改(空六号電探改装備機)',
@@ -4622,6 +4632,137 @@ var EQDATA = {
 		AA: 12,
 		EV: 2,
 		LOS: 1,
+	},
+	376: {
+		name: '533mm Quintuple Torpedo Mount (Late Model)',
+		nameJP: '533mm五連装魚雷(後期型)',
+		added: '2020-05-20',
+		type: TORPEDO,
+		FP: 1,
+		TP: 11,
+		AR: 1,
+		EV: 1,
+		RNG: 1,
+	},
+	377: {
+		name: 'RUR-4A Weapon Alpha Kai',
+		nameJP: 'RUR-4A Weapon Alpha改',
+		added: '2020-05-20',
+		type: DEPTHCHARGE,
+		AR: 1,
+		ACC: 1,
+		EV: 1,
+		ASW: 17,
+	},
+	378: {
+		name: 'Lightweight ASW Torpedo (Initial Test Model)',
+		nameJP: '対潜短魚雷(試作初期型)',
+		added: '2020-05-20',
+		type: DEPTHCHARGE,
+		TP: 2,
+		ASW: 20,
+	},
+	379: {
+		name: '12.7cm Single High-angle Gun Mount Kai Ni',
+		nameJP: '12.7cm単装高角砲改二',
+		added: '2020-05-29',
+		type: MAINGUNSAA,
+		FP: 1,
+		AA: 5,
+		ACC: 1,
+		EV: 3,
+		ASW: 2,
+		RNG: 1,
+	},
+	380: {
+		name: '12.7cm Twin High-angle Gun Mount Kai Ni',
+		nameJP: '12.7cm連装高角砲改二',
+		added: '2020-05-29',
+		type: MAINGUNSAA,
+		FP: 2,
+		AA: 6,
+		ACC: 1,
+		EV: 2,
+		ASW: 2,
+		RNG: 1,
+	},
+	381: {
+		name: '16inch Triple Gun Mount Mk.6',
+		nameJP: '16inch三連装砲 Mk.6',
+		added: '2020-05-29',
+		type: MAINGUNL,
+		FP: 22,
+		AA: 2,
+		AR: 1,
+		ACC: 2,
+		RNG: 3,
+	},
+	382: {
+		name: '12cm Single High-angle Gun Mount Model E',
+		nameJP: '12cm単装高角砲E型',
+		added: '2020-06-19',
+		type: MAINGUNSAA,
+		FP: 1,
+		AA: 3,
+		EV: 2,
+		ASW: 1,
+		RNG: 1,
+	},
+	383: {
+		name: 'Late Model 53cm Bow Torpedo Mount (8 tubes)',
+		nameJP: '後期型53cm艦首魚雷(8門)',
+		added: '2020-06-26',
+		type: TORPEDOSS,
+		TP: 19,
+		ACC: 3,
+		EV: 1,
+		RNG: 1,
+	},
+	384: {
+		name: 'Late Model Submarine Radar & Passive Radiolocator',
+		nameJP: '後期型潜水艦搭載電探&逆探',
+		added: '2020-06-26',
+		type: SUBRADAR,
+		FP: 2,
+		TP: 4,
+		AR: 1,
+		ACC: 4,
+		EV: 13,
+		LOS: 7,
+	},
+	385: {
+		name: '16inch Triple Gun Mount Mk.6 mod.2',
+		nameJP: '16inch三連装砲 Mk.6 mod.2',
+		added: '2020-06-26',
+		type: MAINGUNL,
+		FP: 23,
+		AA: 2,
+		AR: 2,
+		ACC: 3,
+		RNG: 3,
+	},
+	386: {
+		name: '6inch Triple Rapid Fire Gun Mount Mk.16',
+		nameJP: '6inch三連装速射砲 Mk.16',
+		added: '2020-07-11',
+		type: MAINGUNM,
+		FP: 7,
+		AA: 2,
+		AR: 1,
+		ACC: 2,
+		RNG: 2,
+	},
+	387: {
+		name: '6inch Triple Rapid Fire Gun Mount Mk.16 mod.2',
+		nameJP: '6inch三連装速射砲 Mk.16 mod.2',
+		added: '2020-07-11',
+		type: MAINGUNM,
+		FP: 8,
+		AA: 3,
+		AR: 1,
+		ACC: 4,
+		EV: 1,
+		RNG: 2,
 	},
 	501: {
 		name: '5inch Single Cannon',
@@ -5407,6 +5548,7 @@ var EQDATA = {
 		added: '2018-02-16',
 		b_image: 16,
 		type: FIGHTER,
+		btype: B_NIGHTFIGHTER,
 		FP: 2,
 		AA: 11,
 		ACC: 3,
@@ -5420,6 +5562,7 @@ var EQDATA = {
 		added: '2018-02-16',
 		b_image: 17,
 		type: DIVEBOMBER,
+		btype: B_NIGHTBOMBER2,
 		FP: 3,
 		DIVEBOMB: 16,
 		AA: 5,
@@ -5434,6 +5577,7 @@ var EQDATA = {
 		added: '2018-02-16',
 		b_image: 18,
 		type: TORPBOMBER,
+		btype: B_NIGHTBOMBER,
 		FP: 4,
 		TP: 15,
 		AA: 6,
@@ -5682,6 +5826,75 @@ var EQDATA = {
 		EV: 3,
 		ASW: 11,
 		LOS: 13,
+	},
+	604: {
+		name: 'Abyssal 5inch Twin Gun Mount Model A',
+		nameJP: '深海5inch連装砲A型',
+		added: '2020-06-26',
+		type: MAINGUNS,
+		FP: 6,
+		TP: 6,
+		AA: 2,
+		ACC: 18,
+		EV: 6,
+		ASW: 4,
+		RNG: 1,
+	},
+	605: {
+		name: 'Abyssal Submarine Electronic Armament',
+		nameJP: '深海潜水艦搭載電子兵装',
+		added: '2020-06-26',
+		type: SUBRADAR,
+		TP: 6,
+		ACC: 22,
+		EV: 6,
+		LOS: 6,
+		RNG: 1,
+	},
+	606: {
+		name: 'Abyssal 5inch Single High-angle Gun Mount Kai Ni',
+		nameJP: '深海5inch単装高角砲改二',
+		added: '2020-06-26',
+		type: MAINGUNSAA,
+		FP: 1,
+		AA: 5,
+		ACC: 19,
+		EV: 3,
+		ASW: 2,
+		RNG: 1,
+	},
+	607: {
+		name: 'Abyssal 5inch Twin High-angle Gun Mount Kai Ni',
+		nameJP: '深海5inch連装高角砲改二',
+		added: '2020-06-26',
+		type: MAINGUNSAA,
+		FP: 2,
+		AA: 6,
+		ACC: 19,
+		EV: 2,
+		ASW: 2,
+		RNG: 1,
+	},
+	608: {
+		name: 'Abyssal Night Operation Aviation Equipment',
+		nameJP: '深海夜間航空作戦装備',
+		added: '2020-07-11',
+		type: RADARL,
+		FP: 3,
+		ACC: 3,
+		RNG: 4,
+	},
+	609: {
+		name: 'Abyssal 16inch Triple Gun Mount Mk.6',
+		nameJP: '深海16inch三連装砲 Mk6',
+		added: '2020-07-11',
+		type: MAINGUNM,
+		FP: 25,
+		AA: 3,
+		AR: 3,
+		ACC: 25,
+		EV: 4,
+		RNG: 3,
 	},
 };
 

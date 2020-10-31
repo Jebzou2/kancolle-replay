@@ -76,6 +76,7 @@ SoundManager.prototype = {
 		this.BGMnum = 0;
 	},
 	fadeBGM: function(dur) {
+		if (this.BGMnum == 0) return;
 		if (!this._bgm) return;
 		if (this.BGMnum == 0) return;
 		if (!dur) dur = 2000;
@@ -285,6 +286,12 @@ var BGMLIST = {
 	151: {url:'assets/music/151_6187.mp3'},
 	152: {url:'assets/music/152_8689.mp3'},
 	153: {url:'assets/music/153_7501.mp3'},
+	155: {url:'assets/music/155_2953.mp3'},
+	156: {url:'assets/music/156_9422.mp3'},
+	157: {url:'assets/music/157_5537.mp3'},
+	159: {url:'assets/music/159_5667.mp3'},
+	160: {url:'assets/music/160_3283.mp3'},
+	998: {url:'assets/music/savior of song.mp3',voldef:.25},
 	999: {url:'assets/music/Orel Cruising & LSC Song [ENG Sub].mp3',voldef:.3},
 	1000: {url: 'assets/music/bossold1.mp3',voldef:.6},
 	1001: {url: 'assets/music/bossold2.mp3',voldef:.6},
