@@ -6319,6 +6319,42 @@ var VOICES = {
 		damage: "assets/voice/Supply_Depot_Princess_Broken_Form_Damaged.ogg",
 		sunk: "assets/voice/Supply_Depot_Princess_Destroyed.ogg",
 	},
+	1927: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Damagrd.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Sunk.ogg",
+	},
+	1928: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Damagrd.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Sunk.ogg",
+	},
+	1929: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Damagrd.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Sunk.ogg",
+	},
+	1930: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Damaged.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Sunk.ogg",
+	},
+	1931: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Damaged.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Sunk.ogg",
+	},
+	1932: {
+		start: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Intro.ogg",
+		attack: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Attack.ogg",
+		damage: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Damaged.ogg",
+		sunk: "assets/voice/Abyssal_Kuriles_Princess_Broken_Form_Sunk.ogg",
+	},
 	2001: {
 		start: "assets/voice/Iona_fog_-Battle_Start.ogg",
 		attack: "assets/voice/Iona_fog_-Attack.ogg",
