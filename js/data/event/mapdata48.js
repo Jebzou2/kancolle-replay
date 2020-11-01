@@ -70,8 +70,8 @@ MAPDATA[48] =
 			bgmDB: 156,
 			bgmNB: 156,
 			bossnode: [13,20],
-			checkLock: [3,7,2,8,6,12,13,14],
-			giveLock: 1,
+			checkLock: ['48-2','48-3','48-4','48-5','48-6','48-7','48-8','48-9'],
+			giveLock: '48-1',
 			lbas: 0,
 			reward: { ships: [700], firstOnly: true },
 			parts: {
@@ -452,7 +452,7 @@ MAPDATA[48] =
 					},
 				},
 			}
-		}
+		},
 	}
 };
 
